@@ -1,15 +1,12 @@
 # Autonomous UAV 
-![Github All Releases](https://img.shields.io/github/downloads/josetv91/Autonomous-UAV/total?logo=GitHub&style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/josetv91/Autonomous-UAV)
-![GitHub language count](https://img.shields.io/github/languages/count/josetv91/Autonomous-UAV?color=success&logo=CodersRank&logoColor=%23FFFFFF)
-[![version](https://img.shields.io/badge/version-1.1-red.svg)](//npmjs.com/package/Autonomous-UAV)
+
 
 Based on my last research paper in 2021:
 
 > LPV-MPC control and self-tuning feedback gains for the trajectory tracking of a quadcopter UAV
 > http://iraj.doionline.org/dx/IJMPE-IRAJ-DOIONLINE-18111
 
-The goal of this project is to control the autonomous navigation of a drone, making use of the equations that describe its atitude and position and implement a software and simulation environment that allows to test and compare the performace  against a Machine learning algorithm added in the control system.
+The goal of this project is to control the autonomous navigation of an underwater vehicle, making use of the equations that describe its atitude and position and implement a software and simulation environment that allows to test and compare the performace  against a Machine learning algorithm added in the control system.
 
 ---
 
@@ -30,7 +27,7 @@ Feel free to download the software installer in the How-to-use section.
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
-- [Author's Info](#author-info)
+
 
 ---
 
@@ -95,8 +92,6 @@ J. Dentler, S. Kannan, M. A. O. Mendez and H. Voos, "A real-time model predictiv
 H. Cheng and Y. Yang, "Model predictive control and PID for path following of an unmanned quadrotor helicopter," 2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA), pp. 768-773, 2017.  
 <a id="2">[10]</a> 
 L. Singh and J. Fuller, "Trajectory generation for a UAV in urban terrain, using nonlinear MPC," Proceedings of the 2001 American Control Conference, vol.3, pp. 2301-2308, 2001.  
-## Author's Info
-
-- Email - [jose.tolentino.v@uni.pe](jose_antoniotv@hotmail.com)
+##
 
 [//]: # "Comment this line() - Websie - [some](some@pe) "
